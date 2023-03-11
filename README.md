@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play badminton and watch Anime✌ 
 - 🚩 Connect with me: https://www.linkedin.com/in/akshat-3218421bb/
 
-<img align= "right" src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="300px" alt="Hiii" /> 
+<img align= "right" src="https://media.tenor.com/B8PvHQ3BhuoAAAAd/kakashi-kakashi-hatake.gif" width="500px" alt="Hiii" /> 
 
 
   
