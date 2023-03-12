@@ -1,9 +1,9 @@
-### Hi there 👋 I am Akshat!
+<h1 align="center">Hi there <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Akshat</h1>
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java Developemnt, Web development and Leetcode DSA Problem solving.
 - 🌱 I’m currently learning problem solving skills and DSA
