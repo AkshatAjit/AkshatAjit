@@ -1,8 +1,10 @@
-<h1 align="center">Hi there <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Akshat</h1>
+<h1 align="center">Hi there👋 I'm Akshat</h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
+</br>
+
 
 
 - 🔭 I’m currently working on Java Developemnt, Web development and Leetcode DSA Problem solving.
@@ -24,10 +26,11 @@ Languages and Tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<br>
+<br>
 
 
 ![Akshat's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatAjit&theme=dark&show)    
-<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshatAjit&theme=dark)](https://git.io/streak-stats)
 
